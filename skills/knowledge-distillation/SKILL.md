@@ -22,6 +22,15 @@ Do not call excerpts, polished quotations, or compressed paraphrases a completed
 4. Produce a small action set that is specific enough to try, with an observable verification method.
 5. Test transferability: apply the rule to one new scenario not explicitly covered by the source. If it cannot guide a new decision, revise the model rather than expanding the summary.
 
+## Evidence discipline
+
+When current or externally checkable claims matter, search for primary, academic, government, publisher, or author sources before writing a verified conclusion.
+
+- Label source identity, author opinion, independently supported fact, and your own inference separately.
+- Use “source verified, method unverified” when a reliable source establishes what an author or book says but not that its method works generally.
+- Do not convert a personal case, a famous speaker’s assertion, or a historical example into a universal causal rule.
+- For finance, law, health, or other high-stakes decisions, provide educational experiments and risk boundaries rather than outcome promises or personalized advice.
+
 ## Required output
 
 For substantial content, create these sections:
@@ -35,6 +44,8 @@ For substantial content, create these sections:
 7. **Validation and transfer** — what feedback would test it and one new use case.
 
 Use the repository’s `99-模板/蒸馏模板.md` when authoring an Obsidian note.
+
+For every new book or reading-list item, create its distillation with the template’s exact headings: phenomenon, logic, rules, actions, boundaries, validation, and transfer. Add external-source status in the phenomenon section; if verification is incomplete, explicitly mark it pending.
 
 ## Quality checks
 
